@@ -3,6 +3,8 @@
 - 👀 Currently, I’m the Student Ambassador and the General executive of Computing Students Hub(CSHub), a club at York University for tech enthusiasts.
 I am also responsible for developing and maintaining CSHub’s website with a significant focus on Web Design and front-end development.
 Moreover, I am the Webmaster of Club Infinity, a club at York University for Mathematics enthusiasts.
+
+- I have experience working with HTML, CSS, Bootstrap, JavaScript, Java, Android Studio, and Python.
   
 - 🌱 I’m currently learning React to enhance my web development skills.
 
