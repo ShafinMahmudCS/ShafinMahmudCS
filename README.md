@@ -6,6 +6,7 @@ Moreover, I am the Webmaster of Club Infinity, a club at York University for Mat
 
 - Technical Skills: 
 > Languages: Python, JavaScript, Java, C, HTML, CSS, SQL
+
 > Tools & Frameworks: Chart.js, Git, Bootstrap, Microsoft Office Suite, Jenkins, AOS, WordPress, Twilio
   
 - 🌱 I’m currently learning React to enhance my web development skills.
